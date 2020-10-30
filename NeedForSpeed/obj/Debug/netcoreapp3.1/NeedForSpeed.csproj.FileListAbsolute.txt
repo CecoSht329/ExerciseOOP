@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\bin\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.genruntimeconfig.cache

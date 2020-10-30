@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

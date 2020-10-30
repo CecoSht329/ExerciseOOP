@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\bin\Debug\netcoreapp3.1\BorderControl.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\BorderControl\obj\Debug\netcoreapp3.1\BorderControl.genruntimeconfig.cache

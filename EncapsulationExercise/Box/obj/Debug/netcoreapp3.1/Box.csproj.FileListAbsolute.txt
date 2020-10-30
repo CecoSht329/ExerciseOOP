@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\bin\Debug\netcoreapp3.1\Box.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\bin\Debug\netcoreapp3.1\Box.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\bin\Debug\netcoreapp3.1\Box.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\bin\Debug\netcoreapp3.1\Box.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\obj\Debug\netcoreapp3.1\Box.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\obj\Debug\netcoreapp3.1\Box.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\obj\Debug\netcoreapp3.1\Box.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\obj\Debug\netcoreapp3.1\Box.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\Box\obj\Debug\netcoreapp3.1\Box.genruntimeconfig.cache

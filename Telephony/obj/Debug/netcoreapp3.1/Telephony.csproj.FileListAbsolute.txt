@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\obj\Debug\netcoreapp3.1\Telephony.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache

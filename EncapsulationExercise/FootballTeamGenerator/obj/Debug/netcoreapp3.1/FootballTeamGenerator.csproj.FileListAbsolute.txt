@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\bin\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationExercise\FootballTeamGenerator\obj\Debug\netcoreapp3.1\FootballTeamGenerator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\bin\Debug\netcoreapp3.1\Animals.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\bin\Debug\netcoreapp3.1\Animals.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\bin\Debug\netcoreapp3.1\Animals.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\bin\Debug\netcoreapp3.1\Animals.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\bin\Debug\netcoreapp3.1\Animals.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\obj\Debug\netcoreapp3.1\Animals.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\obj\Debug\netcoreapp3.1\Animals.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\obj\Debug\netcoreapp3.1\Animals.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\obj\Debug\netcoreapp3.1\Animals.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\obj\Debug\netcoreapp3.1\Animals.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\Animals\obj\Debug\netcoreapp3.1\Animals.genruntimeconfig.cache

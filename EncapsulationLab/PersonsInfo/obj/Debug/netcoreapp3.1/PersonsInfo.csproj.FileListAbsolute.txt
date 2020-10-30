@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\EncapsulationLab\PersonsInfo\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache

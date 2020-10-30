@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+C:\ProgramingLessons\C#_projects\.vs\ExerciseOOP\CustomRandomList\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache

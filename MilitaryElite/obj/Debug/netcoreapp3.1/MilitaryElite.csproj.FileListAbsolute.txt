@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache
