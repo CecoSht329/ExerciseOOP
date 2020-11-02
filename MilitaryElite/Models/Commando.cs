@@ -1,58 +1,43 @@
-﻿
-
-using System;
-using System.Collections.Generic;
-using System.Net.NetworkInformation;
+﻿using System.Collections.Generic;
 using System.Text;
 
 namespace MilitaryElite
 {
-    public class Commando : Private, ISpecialisedSoldier, ICommando
+    public class Commando : ISoldier, IPrivate, ISpecialisedSoldier, ICommando
     {
-        private string corps;
-        private List<Mission> missions;
-        public Commando(string id, string firstName, string lastName, decimal salary, string corps)
-            : base(id, firstName, lastName, salary)
+        public Commando(int id, string firstName, string lastName, double salary, Corps corps)
         {
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
+            Salary = salary;
             Corps = corps;
-            missions = new List<Mission>();
+            Missions = new List<Mission>();
         }
 
-        public string Corps
-        {
-            get
-            {
-                return corps;
-            }
-            private set
-            {
-                if (value != TypeSpecialSoldier.Airforces && value != TypeSpecialSoldier.Marines)
-                {
-                    throw new ArgumentException();
-                }
-                corps = value;
-            }
-        }
+        public int Id { get; }
 
-        public IReadOnlyCollection<IMission> Missions
-            => missions;
-        public void AddMission(Mission mission)
-        {
-            missions.Add(mission);
-        }
+        public string FirstName { get; }
+
+        public string LastName { get; }
+
+        public double Salary { get; }
+
+        public Corps Corps { get; }
+
+        public ICollection<Mission> Missions { get; }
+
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:f2}");
-            sb.AppendLine($"Corps: {Corps}");
-            sb.AppendLine($"Missions:");
-            foreach (Mission mission in missions)
+            var sb = new StringBuilder();
+            sb.AppendLine($"Name: {this.FirstName} {this.LastName} Id: {this.Id} Salary: {this.Salary:F2}")
+                .AppendLine($"Corps: {this.Corps}")
+                .AppendLine("Missions:");
+            foreach (var mission in this.Missions)
             {
-                if (!mission.CompleteMission())
-                {
-                    sb.AppendLine("  " + mission.ToString());
-                }
+                sb.AppendLine(mission.ToString());
             }
+
             return sb.ToString().Trim();
         }
     }
