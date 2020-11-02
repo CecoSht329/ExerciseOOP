@@ -1,19 +1,27 @@
 ﻿
 namespace MilitaryElite
 {
-    public class Private : Soldier, IPrivate
+    public class Private : ISoldier, IPrivate
     {
-        public Private(string id, string firstName, string lastName, decimal salary)
-            : base(id, firstName, lastName)
+        public Private(int id, string firstName, string lastName, double salary)
         {
+            Id = id;
+            FirstName = firstName;
+            LastName = lastName;
             Salary = salary;
         }
 
-        public decimal Salary { get; private set; }
+        public int Id { get; }
+
+        public string FirstName { get; }
+
+        public string LastName { get; }
+
+        public double Salary { get; }
 
         public override string ToString()
         {
-            return $"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:f2}";
+            return $"Name: {this.FirstName} {this.LastName} Id: {this.Id} Salary: {this.Salary:F2}";
         }
     }
 }
