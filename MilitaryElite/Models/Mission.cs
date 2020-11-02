@@ -1,48 +1,30 @@
 ﻿
-using System;
-
 namespace MilitaryElite
 {
-    public class Mission : IMission
+    public enum State
     {
-        private string state;
-        public Mission(string codeName, string state)
+        inProgress,
+        Finished
+    }
+    public class Mission
+    {
+        public Mission(string name, State state)
         {
-            CodeName = codeName;
+            Name = name;
             State = state;
         }
 
-        public string CodeName { get; private set; }
+        public string Name { get; private set; }
 
-        public string State
+        public State State { get; private set; }
+
+        public void CompeteMission()
         {
-            get
-            {
-                return state;
-            }
-            private set
-            {
-                if (value != MissionState.InProgress && value != MissionState.Finished)
-                {
-                    throw new ArgumentException();
-                }
-                state = value;
-            }
+            this.State = State.Finished;
         }
-
-
-        public bool CompleteMission()
-        {
-            if (State != MissionState.Finished)
-            {
-                return false;
-            }
-            return true;
-        }
-
         public override string ToString()
         {
-            return $"  Code Name: {CodeName} State: {State}";
+            return $"Code Name: {this.Name} State: {this.State}";
         }
     }
 }
