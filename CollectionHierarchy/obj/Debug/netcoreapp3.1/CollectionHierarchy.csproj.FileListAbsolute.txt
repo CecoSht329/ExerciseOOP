@@ -1,0 +1,13 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\bin\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csprojAssemblyReference.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\CollectionHierarchy\obj\Debug\netcoreapp3.1\CollectionHierarchy.genruntimeconfig.cache
