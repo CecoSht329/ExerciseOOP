@@ -1,55 +1,45 @@
 ﻿
-using System;
+using MilitaryElite.Models;
 using System.Collections.Generic;
 using System.Text;
 
 namespace MilitaryElite
 {
-    public class Engineer : Private, ISpecialisedSoldier, IEngineer
+    public class Engineer : ISoldier, IPrivate, ISpecialisedSoldier, IEngineer
     {
-        private string corps;
-        private List<Repair> repairs;
-        public Engineer(string id, string firstName, string lastName, decimal salary, string corps)
-            : base(id, firstName, lastName, salary)
+        public Engineer(int id, string firstName, string lastName, double salary, Corps corps)
         {
-            Corps = corps;
-            repairs = new List<Repair>();
+            this.Id = id;
+            this.FirstName = firstName;
+            this.LastName = lastName;
+            this.Salary = salary;
+            this.Corps = corps;
+            this.Repairs = new List<Repair>();
         }
 
-        public string Corps
-        {
-            get
-            {
-                return corps;
-            }
-            private set
-            {
-                if (value != TypeSpecialSoldier.Airforces && value != TypeSpecialSoldier.Marines)
-                {
-                    throw new ArgumentException();
-                }
-                corps = value;
-            }
-        }
+        public int Id { get; }
 
-        public IReadOnlyCollection<IRepair> Repairs
-            => repairs;
+        public string FirstName { get; }
 
-        public void AddRepair(Repair repair)
-        {
-            repairs.Add(repair);
-        }
+        public string LastName { get; }
+
+        public double Salary { get; }
+
+        public Corps Corps { get; }
+
+        public ICollection<Repair> Repairs { get; }
 
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Name: {FirstName} {LastName} Id: {Id} Salary: {Salary:f2}");
-            sb.AppendLine($"Corps: {Corps}");
-            sb.AppendLine("Repairs:");
-            foreach (Repair repair in repairs)
+            var sb = new StringBuilder();
+            sb.AppendLine($"Name: {this.FirstName} {this.LastName} Id: {this.Id} Salary: {this.Salary:F2}")
+                .AppendLine($"Corps: {this.Corps}")
+                .AppendLine("Repairs:");
+            foreach (var repair in this.Repairs)
             {
                 sb.AppendLine(repair.ToString());
             }
+
             return sb.ToString().Trim();
         }
     }
