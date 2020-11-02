@@ -1,0 +1,12 @@
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.exe
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.deps.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.runtimeconfig.dev.json
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\bin\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.AssemblyInfo.cs
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.dll
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.pdb
+C:\ProgramingLessons\C#_projects\ExerciseOOP\ExplicitInterfaces\obj\Debug\netcoreapp3.1\ExplicitInterfaces.genruntimeconfig.cache
