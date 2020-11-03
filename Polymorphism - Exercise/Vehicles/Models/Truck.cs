@@ -1,5 +1,6 @@
 ﻿
 using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace Vehicles
 {
@@ -7,9 +8,11 @@ namespace Vehicles
     {
         private double fuelQuantity;
         private double fuelConsumption;
+        private double tankCapacity;
 
-        public Truck(double fuelQuantity, double fuelConsumption)
+        public Truck(double fuelQuantity, double fuelConsumption, double tankCapacity)
         {
+            TankCapacity = tankCapacity;
             FuelQuantity = fuelQuantity;
             FuelConsumption = fuelConsumption;
         }
@@ -25,6 +28,10 @@ namespace Vehicles
                 if (value < 0)
                 {
                     throw new ArgumentException();
+                }
+                if (value > TankCapacity)
+                {
+                    value = 0;
                 }
                 fuelQuantity = value;
             }
@@ -45,6 +52,21 @@ namespace Vehicles
             }
         }
 
+        public double TankCapacity
+        {
+            get
+            {
+                return tankCapacity;
+            }
+            private set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException();
+                }
+                tankCapacity = value;
+            }
+        }
 
         public void Drive(double distance)
         {
@@ -62,7 +84,22 @@ namespace Vehicles
 
         public void Refuel(double fuel)
         {
-            FuelQuantity += (fuel * 0.95);
+            if (fuel > 0)
+            {
+                double availableSpace = TankCapacity - FuelQuantity;
+                if (fuel <= availableSpace)
+                {
+                    FuelQuantity += (fuel * 0.95);
+                }
+                else
+                {
+                    Console.WriteLine($"Cannot fit {fuel} fuel in the tank");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Fuel must be a positive number");
+            }
         }
     }
 }
