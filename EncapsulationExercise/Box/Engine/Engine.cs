@@ -15,9 +15,9 @@ namespace Box
             try
             {
                 Box box = new Box(length, width, height);
-                Console.WriteLine($"Surface Area - {box.GetSurfaceArea():f2}");
-                Console.WriteLine($"Lateral Surface Area - {box.GetLateralSurfaceArea():f2}");
-                Console.WriteLine($"Volume - {box.GetVolume():f2}");
+                Console.WriteLine($"Surface Area - {box.SurfaceArea:f2}");
+                Console.WriteLine($"Lateral Surface Area - {box.LateralSurfaceArea:f2}");
+                Console.WriteLine($"Volume - {box.Volume:f2}");
             }
             catch (ArgumentException ex)
             {
