@@ -46,23 +46,17 @@ namespace Box
             }
         }
 
-        public double GetSurfaceArea()
-        {
+        public double SurfaceArea =>
             //Surface Area = 2lw + 2lh + 2wh
-            return 2 * (Length * Width + Length * Height + Width * Height);
-        }
+            2 * (Length * Width + Length * Height + Width * Height);
 
-        public double GetLateralSurfaceArea()
-        {
+        public double LateralSurfaceArea =>
             //Lateral Surface Area = 2lh + 2wh
-            return 2 * (Length * Height + Width * Height);
-        }
+            2 * (Length * Height + Width * Height);
 
-        public double GetVolume()
-        {
+        public double Volume =>
             //Volume = lwh
-            return Length * Width * Height;
-        }
+            Length * Width * Height;
 
         private void ValidateSide(double side, string paramName)
         {
