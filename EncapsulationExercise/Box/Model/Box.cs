@@ -21,10 +21,7 @@ namespace Box
             get => length;
             private set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException(string.Format(Common.Common.InvalidSizeMessage, nameof(Length)));
-                }
+                ValidateSide(value, nameof(Length));
                 length = value;
             }
         }
@@ -34,10 +31,7 @@ namespace Box
             get => width;
             private set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException(string.Format(Common.Common.InvalidSizeMessage, nameof(Width)));
-                }
+                ValidateSide(value, nameof(Width));
                 width = value;
             }
         }
@@ -47,10 +41,7 @@ namespace Box
             get => height;
             private set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException(string.Format(Common.Common.InvalidSizeMessage, nameof(Height)));
-                }
+                ValidateSide(value, nameof(Height));
                 height = value;
             }
         }
@@ -71,6 +62,14 @@ namespace Box
         {
             //Volume = lwh
             return Length * Width * Height;
+        }
+
+        private void ValidateSide(double side, string paramName)
+        {
+            if (side <= 0)
+            {
+                throw new ArgumentException($"{string.Format(Common.Common.InvalidSizeMessage, paramName)}");
+            }
         }
     }
 }
