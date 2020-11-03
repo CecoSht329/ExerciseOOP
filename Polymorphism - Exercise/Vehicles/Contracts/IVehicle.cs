@@ -8,5 +8,6 @@ namespace Vehicles
 
         public void Drive(double distance);
         public void Refuel(double fuel);
+        public double TankCapacity { get; }
     }
 }
