@@ -15,7 +15,7 @@ namespace FootballTeamGenerator
             while ((input = Console.ReadLine()) != "END")
             {
                 string[] command = input
-                    .Split(";", StringSplitOptions.RemoveEmptyEntries);
+                    .Split(";");
                 string teamName = command[1];
                 try
                 {
@@ -30,7 +30,10 @@ namespace FootballTeamGenerator
                         //print "Team [team name] does not exist."
                         //endurance, sprint, dribble, passing and shooting
                         teamName = command[1];
-
+                        if (!teams.Any(t => t.Name == teamName))
+                        {
+                            throw new ArgumentException(string.Format(Message.NonExistentTeam, teamName));
+                        }
                         string playerName = command[2];
                         int endurance = int.Parse(command[3]);
                         int sprint = int.Parse(command[4]);
@@ -68,7 +71,7 @@ namespace FootballTeamGenerator
                         if (teams.Any(t => t.Name == teamName))
                         {
                             Team team = teams.FirstOrDefault(t => t.Name == teamName);
-                            
+
                             Console.WriteLine($"{team.Name} - {team.GetRatng()}");
                         }
                         else
