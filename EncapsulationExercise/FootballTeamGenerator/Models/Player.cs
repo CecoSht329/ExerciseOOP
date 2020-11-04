@@ -6,14 +6,15 @@ namespace FootballTeamGenerator
 {
     public class Player
     {
+        private const double statCount = 5;
         private string name;
-        private double endurance;
-        private double sprint;
-        private double dribble;
-        private double passing;
-        private double shooting;
+        private int endurance;
+        private int sprint;
+        private int dribble;
+        private int passing;
+        private int shooting;
 
-        public Player(string name, double endurance, double sprint, double dribble, double passing, double shooting)
+        public Player(string name, int endurance, int sprint, int dribble, int passing, int shooting)
         {
             Name = name;
             Endurance = endurance;
@@ -36,7 +37,7 @@ namespace FootballTeamGenerator
             }
         }
 
-        public double Endurance
+        public int Endurance
         {
             get => endurance;
             private set
@@ -49,7 +50,7 @@ namespace FootballTeamGenerator
             }
         }
 
-        public double Sprint
+        public int Sprint
         {
             get => sprint;
             private set
@@ -62,7 +63,7 @@ namespace FootballTeamGenerator
             }
         }
 
-        public double Dribble
+        public int Dribble
         {
             get => dribble;
             private set
@@ -76,7 +77,7 @@ namespace FootballTeamGenerator
         }
 
 
-        public double Passing
+        public int Passing
         {
             get => passing;
             private set
@@ -89,7 +90,7 @@ namespace FootballTeamGenerator
             }
         }
 
-        public double Shooting
+        public int Shooting
         {
             get => shooting;
             private set
@@ -102,20 +103,11 @@ namespace FootballTeamGenerator
             }
         }
 
-
-        public double GetSkillLevel()
-        {
-            List<double> statsCollection = new List<double>();
-            statsCollection.Add(Endurance);
-            statsCollection.Add(Sprint);
-            statsCollection.Add(Dribble);
-            statsCollection.Add(Passing);
-            statsCollection.Add(Shooting);
-
-            return statsCollection.Average();
-        }
-
+        public double OverallStat
+            => (Endurance + Sprint + Dribble + Passing + Shooting) / statCount;
        
+
+
 
         private static bool IsStatValid(double value)
         {
