@@ -50,19 +50,19 @@ namespace FootballTeamGenerator.Models
             }
         }
 
-        public double GetRatng()
+        public int GetRatng()
         {
             List<double> playerSkillLevelCollection = new List<double>();
 
             foreach (Player player in players)
             {
-                playerSkillLevelCollection.Add(player.GetSkillLevel());
+                playerSkillLevelCollection.Add(player.OverallStat);
             }
             if (playerSkillLevelCollection.Count == 0)
             {
                 return 0;
             }
-            return Math.Round(playerSkillLevelCollection.Average());
+            return(int) Math.Round(playerSkillLevelCollection.Average());
         }
     }
 }
